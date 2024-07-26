@@ -1,7 +1,7 @@
 <div> <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
 Bienvenido al Github de Marlene Villa
 </div>
-¡[banner](marlene.jpg)
+/*¡[banner](marlene.jpg)*/
 
 
 <!--
